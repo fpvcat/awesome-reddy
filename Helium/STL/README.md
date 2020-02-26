@@ -35,3 +35,13 @@ Soporte para GPS Beitian bn-220 y antena de video.
 **Autor:** Jose Miguel Lopez
 
 **Thingiverse:** https://www.thingiverse.com/thing:4034535
+
+## Soporte para GoPro Session
+
+![](images/soporte-session.jpg)
+
+**STL:** [soporte-session.stl](soporte-session.stl)
+
+**Autor:** 3D Para Todo
+
+**Thingiverse:** https://www.thingiverse.com/thing:3896479
