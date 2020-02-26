@@ -8,5 +8,5 @@ Soporte para GPS Beitian bn-220 y antena de video.
 
 ![](images/gps4.png)
 
-Autor: Manuel
+Autor: Manuél Avilés Morant
 
