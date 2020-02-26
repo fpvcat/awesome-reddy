@@ -25,7 +25,7 @@ Soporte para GPS Beitian bn-220 y antena de video.
 
 ## Soporte de antenas
 
-[](soporte-antenas.stl)
+[soporte-antenas.stl](soporte-antenas.stl)
 
 ![](images/soporte-antenas.jpg)
 
