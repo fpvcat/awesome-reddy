@@ -12,6 +12,7 @@ Soporte para GPS Beitian bn-220 y antena de video.
 ![](images/gps4.png)
 
 **STL:** [gps4.stl](gps4.stl)
+
 **Autor:** Manuél Avilés Morant
 
 ## Protector para las patas
