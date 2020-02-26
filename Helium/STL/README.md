@@ -10,7 +10,7 @@ Modelos para impresión 3D de piezas del frame [Helium][https://dedrones.es/heli
 
 Soporte para GPS Beitian bn-220 y antena de video.
 
-![](images/gps4.png)
+![](images/gps4.jpg)
 
 **STL:** [gps4.stl](gps4.stl)
 
