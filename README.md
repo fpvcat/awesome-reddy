@@ -5,6 +5,8 @@ Archivos y documentos relacionados con el dron [Reddy 1.2](https://dedrones.es/r
 ## Helium Frame
 
 * [Archivos STL](Helium/STL)
+* [Modificaciones](Modificaciones)
+  * [Cámara](Modificaciones/Camara)
 
 ## Quieres añadir algo?
 
