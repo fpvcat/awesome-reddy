@@ -4,6 +4,7 @@ Modelos para impresión 3D de piezas del frame [Helium][https://dedrones.es/heli
 
 * [Soporte GPS BN-220](#soporte-gps-bn-220)
 * [Protector de las patas del frame](#protector-para-las-patas)
+* [Soporte de antenas](#soporte-de-antenas)
 
 ## Soporte GPS BN-220
 
