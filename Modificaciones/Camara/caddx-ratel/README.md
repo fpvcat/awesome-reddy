@@ -2,11 +2,11 @@
 
 https://caddxfpv.com/products/11
 
-![images/ratel.jpg]
+![](images/ratel.jpg)
 
 
 ## Instalación
 
-![](images/ratel-layout.png)
+![](images/layout-ratel.png)
 
-![](images/ratel-layout2.png)
+![](images/layout-ratel2.png)
