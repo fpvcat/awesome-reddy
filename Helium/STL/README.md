@@ -12,7 +12,7 @@ Soporte para GPS Beitian bn-220 y antena de video.
 
 ## Protector para las patas
 
-![patas.stl](patas.stl)
+## ![patas.stl](patas.stl)
 
 **Autor:** deDrones
 
