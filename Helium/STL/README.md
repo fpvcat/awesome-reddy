@@ -7,6 +7,8 @@ Modelos para impresión 3D de piezas del frame [Helium][https://dedrones.es/heli
 * [Soporte de antenas](#soporte-de-antenas)
 * [Soporte de GoPro Session](#soporte-para-gopro-session)
 
+Si no tienes impresora 3D, los chicos de deDrones tienen algunas de las piezas ya impresas [en la tienda](https://dedrones.es/tienda), así como un servicio de impresion 3D para imprimir [tus propios diseños](https://dedrones.es/impresion-3d).
+
 ## Soporte GPS BN-220
 
 Soporte para GPS Beitian bn-220 y antena de video.
