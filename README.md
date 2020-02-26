@@ -1,6 +1,6 @@
 # deDrones Reddy 1.2
 
-## [Archivos STL para Helium Frame](Helium/STL)
+* [Archivos STL para Helium Frame](Helium/STL)
 
 ## Quieres añadir algo?
 
