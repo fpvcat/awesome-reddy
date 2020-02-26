@@ -2,7 +2,12 @@
 
 Modelos para impresión 3D de piezas del frame [Helium][https://dedrones.es/helium] de deDrones.
 
-## [gps4.stl](gps4.stl)
+* [Soporte GPS BN-220](#soporte-gps-bn-220)
+* [Protector de las patas del frame](#protector-para-las-patas)
+
+## Soporte GPS BN-220
+
+[gps4.stl](gps4.stl)
 
 Soporte para GPS Beitian bn-220 y antena de video.
 
@@ -12,7 +17,7 @@ Soporte para GPS Beitian bn-220 y antena de video.
 
 ## Protector para las patas
 
-## ![patas.stl](patas.stl)
+[patas.stl](patas.stl)
 
 **Autor:** deDrones
 
