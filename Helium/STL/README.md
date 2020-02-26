@@ -54,4 +54,4 @@ Soporte para GPS Beitian bn-220 y antena de video.
 
 **STL:** [gopro-hero-7.stl](gopro-hero-7.stl)
 
-**Author:** David Fragueiro Míguez ([Instagram](https://www.instagram.com/d3iv_fpv/))
+**Autor:** David Fragueiro Míguez ([Instagram](https://www.instagram.com/d3iv_fpv/))
