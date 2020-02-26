@@ -22,3 +22,13 @@ Soporte para GPS Beitian bn-220 y antena de video.
 **Autor:** deDrones
 
 **Thingiverse:** https://www.thingiverse.com/thing:3888683
+
+## Soporte de antenas
+
+[](soporte-antenas.stl)
+
+![](images/soporte-antenas.jpg)
+
+**Autor:** Jose Miguel Lopez
+
+**Thingiverse:** https://www.thingiverse.com/thing:4034535
