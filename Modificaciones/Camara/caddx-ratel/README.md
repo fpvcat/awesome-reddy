@@ -7,6 +7,8 @@ https://caddxfpv.com/products/11
 
 ## Instalación
 
+Instalación sencilla con un par de bridas y cinta de doble cara para la base metalica que viene con la cámara.
+
 ![](images/layout-ratel.png)
 
 ![](images/layout-ratel2.png)
